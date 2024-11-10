@@ -1,0 +1,34 @@
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\Just_Guillermo_VENTASDAM\Negocio\bin\Debug\net6.0\Negocio.deps.json
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\Just_Guillermo_VENTASDAM\Negocio\bin\Debug\net6.0\Negocio.dll
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\Just_Guillermo_VENTASDAM\Negocio\bin\Debug\net6.0\Negocio.pdb
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\Just_Guillermo_VENTASDAM\Negocio\obj\Debug\net6.0\Negocio.csproj.AssemblyReference.cache
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\Just_Guillermo_VENTASDAM\Negocio\obj\Debug\net6.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\Just_Guillermo_VENTASDAM\Negocio\obj\Debug\net6.0\Negocio.AssemblyInfoInputs.cache
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\Just_Guillermo_VENTASDAM\Negocio\obj\Debug\net6.0\Negocio.AssemblyInfo.cs
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\Just_Guillermo_VENTASDAM\Negocio\obj\Debug\net6.0\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\Just_Guillermo_VENTASDAM\Negocio\obj\Debug\net6.0\Negocio.dll
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\Just_Guillermo_VENTASDAM\Negocio\obj\Debug\net6.0\refint\Negocio.dll
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\Just_Guillermo_VENTASDAM\Negocio\obj\Debug\net6.0\Negocio.pdb
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\Just_Guillermo_VENTASDAM\Negocio\obj\Debug\net6.0\ref\Negocio.dll
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\Just_Guillermo_VENTASDAM\Negocio\bin\Debug\net6.0\Datos.dll
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\Just_Guillermo_VENTASDAM\Negocio\bin\Debug\net6.0\Entidades.dll
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\Just_Guillermo_VENTASDAM\Negocio\bin\Debug\net6.0\Datos.pdb
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\Just_Guillermo_VENTASDAM\Negocio\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\Just_Guillermo_VENTASDAM\Negocio\obj\Debug\net6.0\Negocio.csproj.CopyComplete
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\PROYECTO FINAL\Just_Guillermo_VENTASDAM\Negocio\bin\Debug\net6.0\Negocio.deps.json
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\PROYECTO FINAL\Just_Guillermo_VENTASDAM\Negocio\bin\Debug\net6.0\Negocio.dll
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\PROYECTO FINAL\Just_Guillermo_VENTASDAM\Negocio\bin\Debug\net6.0\Negocio.pdb
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\PROYECTO FINAL\Just_Guillermo_VENTASDAM\Negocio\bin\Debug\net6.0\Datos.dll
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\PROYECTO FINAL\Just_Guillermo_VENTASDAM\Negocio\bin\Debug\net6.0\Entidades.dll
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\PROYECTO FINAL\Just_Guillermo_VENTASDAM\Negocio\bin\Debug\net6.0\Datos.pdb
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\PROYECTO FINAL\Just_Guillermo_VENTASDAM\Negocio\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\PROYECTO FINAL\Just_Guillermo_VENTASDAM\Negocio\obj\Debug\net6.0\Negocio.csproj.AssemblyReference.cache
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\PROYECTO FINAL\Just_Guillermo_VENTASDAM\Negocio\obj\Debug\net6.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\PROYECTO FINAL\Just_Guillermo_VENTASDAM\Negocio\obj\Debug\net6.0\Negocio.AssemblyInfoInputs.cache
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\PROYECTO FINAL\Just_Guillermo_VENTASDAM\Negocio\obj\Debug\net6.0\Negocio.AssemblyInfo.cs
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\PROYECTO FINAL\Just_Guillermo_VENTASDAM\Negocio\obj\Debug\net6.0\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\PROYECTO FINAL\Just_Guillermo_VENTASDAM\Negocio\obj\Debug\net6.0\Negocio.csproj.CopyComplete
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\PROYECTO FINAL\Just_Guillermo_VENTASDAM\Negocio\obj\Debug\net6.0\Negocio.dll
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\PROYECTO FINAL\Just_Guillermo_VENTASDAM\Negocio\obj\Debug\net6.0\refint\Negocio.dll
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\PROYECTO FINAL\Just_Guillermo_VENTASDAM\Negocio\obj\Debug\net6.0\Negocio.pdb
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\PROYECTO FINAL\Just_Guillermo_VENTASDAM\Negocio\obj\Debug\net6.0\ref\Negocio.dll

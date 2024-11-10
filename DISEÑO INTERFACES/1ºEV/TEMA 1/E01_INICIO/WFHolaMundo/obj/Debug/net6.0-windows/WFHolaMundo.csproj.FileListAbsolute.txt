@@ -1,0 +1,17 @@
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\E01_INICIO\WFHolaMundo\bin\Debug\net6.0-windows\WFHolaMundo.exe
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\E01_INICIO\WFHolaMundo\bin\Debug\net6.0-windows\WFHolaMundo.deps.json
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\E01_INICIO\WFHolaMundo\bin\Debug\net6.0-windows\WFHolaMundo.runtimeconfig.json
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\E01_INICIO\WFHolaMundo\bin\Debug\net6.0-windows\WFHolaMundo.dll
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\E01_INICIO\WFHolaMundo\bin\Debug\net6.0-windows\WFHolaMundo.pdb
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\E01_INICIO\WFHolaMundo\obj\Debug\net6.0-windows\WFHolaMundo.csproj.AssemblyReference.cache
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\E01_INICIO\WFHolaMundo\obj\Debug\net6.0-windows\WFHolaMundo.Form1.resources
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\E01_INICIO\WFHolaMundo\obj\Debug\net6.0-windows\WFHolaMundo.csproj.GenerateResource.cache
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\E01_INICIO\WFHolaMundo\obj\Debug\net6.0-windows\WFHolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\E01_INICIO\WFHolaMundo\obj\Debug\net6.0-windows\WFHolaMundo.AssemblyInfoInputs.cache
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\E01_INICIO\WFHolaMundo\obj\Debug\net6.0-windows\WFHolaMundo.AssemblyInfo.cs
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\E01_INICIO\WFHolaMundo\obj\Debug\net6.0-windows\WFHolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\E01_INICIO\WFHolaMundo\obj\Debug\net6.0-windows\WFHolaMundo.dll
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\E01_INICIO\WFHolaMundo\obj\Debug\net6.0-windows\refint\WFHolaMundo.dll
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\E01_INICIO\WFHolaMundo\obj\Debug\net6.0-windows\WFHolaMundo.pdb
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\E01_INICIO\WFHolaMundo\obj\Debug\net6.0-windows\WFHolaMundo.genruntimeconfig.cache
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\E01_INICIO\WFHolaMundo\obj\Debug\net6.0-windows\ref\WFHolaMundo.dll

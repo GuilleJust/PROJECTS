@@ -1,0 +1,11 @@
+C:\Users\Guillermo\OneDrive\Escritorio\Estadisticas\Estadisticas\bin\Debug\Estadisticas.exe.config
+C:\Users\Guillermo\OneDrive\Escritorio\Estadisticas\Estadisticas\bin\Debug\Estadisticas.exe
+C:\Users\Guillermo\OneDrive\Escritorio\Estadisticas\Estadisticas\bin\Debug\Estadisticas.pdb
+C:\Users\Guillermo\OneDrive\Escritorio\Estadisticas\Estadisticas\obj\Debug\Estadisticas.csproj.AssemblyReference.cache
+C:\Users\Guillermo\OneDrive\Escritorio\Estadisticas\Estadisticas\obj\Debug\Estadisticas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guillermo\OneDrive\Escritorio\Estadisticas\Estadisticas\obj\Debug\Estadisticas.Form1.resources
+C:\Users\Guillermo\OneDrive\Escritorio\Estadisticas\Estadisticas\obj\Debug\Estadisticas.Properties.Resources.resources
+C:\Users\Guillermo\OneDrive\Escritorio\Estadisticas\Estadisticas\obj\Debug\Estadisticas.csproj.GenerateResource.cache
+C:\Users\Guillermo\OneDrive\Escritorio\Estadisticas\Estadisticas\obj\Debug\Estadisticas.csproj.CoreCompileInputs.cache
+C:\Users\Guillermo\OneDrive\Escritorio\Estadisticas\Estadisticas\obj\Debug\Estadisticas.exe
+C:\Users\Guillermo\OneDrive\Escritorio\Estadisticas\Estadisticas\obj\Debug\Estadisticas.pdb

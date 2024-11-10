@@ -1,0 +1,12 @@
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 3\P1CRUDBDs\Entidades\bin\Debug\net6.0\Entidades.deps.json
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 3\P1CRUDBDs\Entidades\bin\Debug\net6.0\Entidades.dll
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 3\P1CRUDBDs\Entidades\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 3\P1CRUDBDs\Entidades\obj\Debug\net6.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 3\P1CRUDBDs\Entidades\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 3\P1CRUDBDs\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 3\P1CRUDBDs\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 3\P1CRUDBDs\Entidades\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 3\P1CRUDBDs\Entidades\obj\Debug\net6.0\Entidades.dll
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 3\P1CRUDBDs\Entidades\obj\Debug\net6.0\refint\Entidades.dll
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 3\P1CRUDBDs\Entidades\obj\Debug\net6.0\Entidades.pdb
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 3\P1CRUDBDs\Entidades\obj\Debug\net6.0\ref\Entidades.dll

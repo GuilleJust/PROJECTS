@@ -1,0 +1,42 @@
+C:\Users\Guillermo\OneDrive\Escritorio\E01Calculadora\E01Calculadora\bin\Debug\net6.0-windows\E01Calculadora.exe
+C:\Users\Guillermo\OneDrive\Escritorio\E01Calculadora\E01Calculadora\bin\Debug\net6.0-windows\E01Calculadora.deps.json
+C:\Users\Guillermo\OneDrive\Escritorio\E01Calculadora\E01Calculadora\bin\Debug\net6.0-windows\E01Calculadora.runtimeconfig.json
+C:\Users\Guillermo\OneDrive\Escritorio\E01Calculadora\E01Calculadora\bin\Debug\net6.0-windows\E01Calculadora.dll
+C:\Users\Guillermo\OneDrive\Escritorio\E01Calculadora\E01Calculadora\bin\Debug\net6.0-windows\E01Calculadora.pdb
+C:\Users\Guillermo\OneDrive\Escritorio\E01Calculadora\E01Calculadora\obj\Debug\net6.0-windows\E01Calculadora.csproj.AssemblyReference.cache
+C:\Users\Guillermo\OneDrive\Escritorio\E01Calculadora\E01Calculadora\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Guillermo\OneDrive\Escritorio\E01Calculadora\E01Calculadora\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Guillermo\OneDrive\Escritorio\E01Calculadora\E01Calculadora\obj\Debug\net6.0-windows\E01Calculadora_MarkupCompile.cache
+C:\Users\Guillermo\OneDrive\Escritorio\E01Calculadora\E01Calculadora\obj\Debug\net6.0-windows\E01Calculadora_MarkupCompile.lref
+C:\Users\Guillermo\OneDrive\Escritorio\E01Calculadora\E01Calculadora\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Guillermo\OneDrive\Escritorio\E01Calculadora\E01Calculadora\obj\Debug\net6.0-windows\E01Calculadora.g.resources
+C:\Users\Guillermo\OneDrive\Escritorio\E01Calculadora\E01Calculadora\obj\Debug\net6.0-windows\E01Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guillermo\OneDrive\Escritorio\E01Calculadora\E01Calculadora\obj\Debug\net6.0-windows\E01Calculadora.AssemblyInfoInputs.cache
+C:\Users\Guillermo\OneDrive\Escritorio\E01Calculadora\E01Calculadora\obj\Debug\net6.0-windows\E01Calculadora.AssemblyInfo.cs
+C:\Users\Guillermo\OneDrive\Escritorio\E01Calculadora\E01Calculadora\obj\Debug\net6.0-windows\E01Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Guillermo\OneDrive\Escritorio\E01Calculadora\E01Calculadora\obj\Debug\net6.0-windows\E01Calculadora.dll
+C:\Users\Guillermo\OneDrive\Escritorio\E01Calculadora\E01Calculadora\obj\Debug\net6.0-windows\refint\E01Calculadora.dll
+C:\Users\Guillermo\OneDrive\Escritorio\E01Calculadora\E01Calculadora\obj\Debug\net6.0-windows\E01Calculadora.pdb
+C:\Users\Guillermo\OneDrive\Escritorio\E01Calculadora\E01Calculadora\obj\Debug\net6.0-windows\E01Calculadora.genruntimeconfig.cache
+C:\Users\Guillermo\OneDrive\Escritorio\E01Calculadora\E01Calculadora\obj\Debug\net6.0-windows\ref\E01Calculadora.dll
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\2ºEV\TEMA 8\E01Calculadora\E01Calculadora\bin\Debug\net6.0-windows\E01Calculadora.exe
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\2ºEV\TEMA 8\E01Calculadora\E01Calculadora\bin\Debug\net6.0-windows\E01Calculadora.deps.json
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\2ºEV\TEMA 8\E01Calculadora\E01Calculadora\bin\Debug\net6.0-windows\E01Calculadora.runtimeconfig.json
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\2ºEV\TEMA 8\E01Calculadora\E01Calculadora\bin\Debug\net6.0-windows\E01Calculadora.dll
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\2ºEV\TEMA 8\E01Calculadora\E01Calculadora\bin\Debug\net6.0-windows\E01Calculadora.pdb
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\2ºEV\TEMA 8\E01Calculadora\E01Calculadora\obj\Debug\net6.0-windows\E01Calculadora.csproj.AssemblyReference.cache
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\2ºEV\TEMA 8\E01Calculadora\E01Calculadora\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\2ºEV\TEMA 8\E01Calculadora\E01Calculadora\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\2ºEV\TEMA 8\E01Calculadora\E01Calculadora\obj\Debug\net6.0-windows\E01Calculadora_MarkupCompile.cache
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\2ºEV\TEMA 8\E01Calculadora\E01Calculadora\obj\Debug\net6.0-windows\E01Calculadora_MarkupCompile.lref
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\2ºEV\TEMA 8\E01Calculadora\E01Calculadora\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\2ºEV\TEMA 8\E01Calculadora\E01Calculadora\obj\Debug\net6.0-windows\E01Calculadora.g.resources
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\2ºEV\TEMA 8\E01Calculadora\E01Calculadora\obj\Debug\net6.0-windows\E01Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\2ºEV\TEMA 8\E01Calculadora\E01Calculadora\obj\Debug\net6.0-windows\E01Calculadora.AssemblyInfoInputs.cache
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\2ºEV\TEMA 8\E01Calculadora\E01Calculadora\obj\Debug\net6.0-windows\E01Calculadora.AssemblyInfo.cs
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\2ºEV\TEMA 8\E01Calculadora\E01Calculadora\obj\Debug\net6.0-windows\E01Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\2ºEV\TEMA 8\E01Calculadora\E01Calculadora\obj\Debug\net6.0-windows\E01Calculadora.dll
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\2ºEV\TEMA 8\E01Calculadora\E01Calculadora\obj\Debug\net6.0-windows\refint\E01Calculadora.dll
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\2ºEV\TEMA 8\E01Calculadora\E01Calculadora\obj\Debug\net6.0-windows\E01Calculadora.pdb
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\2ºEV\TEMA 8\E01Calculadora\E01Calculadora\obj\Debug\net6.0-windows\E01Calculadora.genruntimeconfig.cache
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\2ºEV\TEMA 8\E01Calculadora\E01Calculadora\obj\Debug\net6.0-windows\ref\E01Calculadora.dll

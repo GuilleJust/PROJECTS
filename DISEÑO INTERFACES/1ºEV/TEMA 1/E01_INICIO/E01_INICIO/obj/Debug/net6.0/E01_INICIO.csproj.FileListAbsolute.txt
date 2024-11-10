@@ -1,0 +1,15 @@
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\E01_INICIO\E01_INICIO\bin\Debug\net6.0\E01_INICIO.exe
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\E01_INICIO\E01_INICIO\bin\Debug\net6.0\E01_INICIO.deps.json
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\E01_INICIO\E01_INICIO\bin\Debug\net6.0\E01_INICIO.runtimeconfig.json
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\E01_INICIO\E01_INICIO\bin\Debug\net6.0\E01_INICIO.dll
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\E01_INICIO\E01_INICIO\bin\Debug\net6.0\E01_INICIO.pdb
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\E01_INICIO\E01_INICIO\obj\Debug\net6.0\E01_INICIO.csproj.AssemblyReference.cache
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\E01_INICIO\E01_INICIO\obj\Debug\net6.0\E01_INICIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\E01_INICIO\E01_INICIO\obj\Debug\net6.0\E01_INICIO.AssemblyInfoInputs.cache
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\E01_INICIO\E01_INICIO\obj\Debug\net6.0\E01_INICIO.AssemblyInfo.cs
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\E01_INICIO\E01_INICIO\obj\Debug\net6.0\E01_INICIO.csproj.CoreCompileInputs.cache
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\E01_INICIO\E01_INICIO\obj\Debug\net6.0\E01_INICIO.dll
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\E01_INICIO\E01_INICIO\obj\Debug\net6.0\refint\E01_INICIO.dll
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\E01_INICIO\E01_INICIO\obj\Debug\net6.0\E01_INICIO.pdb
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\E01_INICIO\E01_INICIO\obj\Debug\net6.0\E01_INICIO.genruntimeconfig.cache
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\E01_INICIO\E01_INICIO\obj\Debug\net6.0\ref\E01_INICIO.dll

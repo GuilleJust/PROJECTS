@@ -1,0 +1,18 @@
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 2\P01 CEO Y ZOMBIS\P01 CEO Y ZOMBIS\bin\Debug\net6.0-windows\P01 CEO Y ZOMBIS.exe
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 2\P01 CEO Y ZOMBIS\P01 CEO Y ZOMBIS\bin\Debug\net6.0-windows\P01 CEO Y ZOMBIS.deps.json
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 2\P01 CEO Y ZOMBIS\P01 CEO Y ZOMBIS\bin\Debug\net6.0-windows\P01 CEO Y ZOMBIS.runtimeconfig.json
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 2\P01 CEO Y ZOMBIS\P01 CEO Y ZOMBIS\bin\Debug\net6.0-windows\P01 CEO Y ZOMBIS.dll
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 2\P01 CEO Y ZOMBIS\P01 CEO Y ZOMBIS\bin\Debug\net6.0-windows\P01 CEO Y ZOMBIS.pdb
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 2\P01 CEO Y ZOMBIS\P01 CEO Y ZOMBIS\obj\Debug\net6.0-windows\P01 CEO Y ZOMBIS.csproj.AssemblyReference.cache
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 2\P01 CEO Y ZOMBIS\P01 CEO Y ZOMBIS\obj\Debug\net6.0-windows\P01_CEO_Y_ZOMBIS.Properties.Resources.resources
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 2\P01 CEO Y ZOMBIS\P01 CEO Y ZOMBIS\obj\Debug\net6.0-windows\P01 CEO Y ZOMBIS.csproj.GenerateResource.cache
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 2\P01 CEO Y ZOMBIS\P01 CEO Y ZOMBIS\obj\Debug\net6.0-windows\P01 CEO Y ZOMBIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 2\P01 CEO Y ZOMBIS\P01 CEO Y ZOMBIS\obj\Debug\net6.0-windows\P01 CEO Y ZOMBIS.AssemblyInfoInputs.cache
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 2\P01 CEO Y ZOMBIS\P01 CEO Y ZOMBIS\obj\Debug\net6.0-windows\P01 CEO Y ZOMBIS.AssemblyInfo.cs
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 2\P01 CEO Y ZOMBIS\P01 CEO Y ZOMBIS\obj\Debug\net6.0-windows\P01 CEO Y ZOMBIS.csproj.CoreCompileInputs.cache
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 2\P01 CEO Y ZOMBIS\P01 CEO Y ZOMBIS\obj\Debug\net6.0-windows\P01 CEO Y ZOMBIS.dll
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 2\P01 CEO Y ZOMBIS\P01 CEO Y ZOMBIS\obj\Debug\net6.0-windows\refint\P01 CEO Y ZOMBIS.dll
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 2\P01 CEO Y ZOMBIS\P01 CEO Y ZOMBIS\obj\Debug\net6.0-windows\P01 CEO Y ZOMBIS.pdb
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 2\P01 CEO Y ZOMBIS\P01 CEO Y ZOMBIS\obj\Debug\net6.0-windows\P01 CEO Y ZOMBIS.genruntimeconfig.cache
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 2\P01 CEO Y ZOMBIS\P01 CEO Y ZOMBIS\obj\Debug\net6.0-windows\ref\P01 CEO Y ZOMBIS.dll
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 2\P01 CEO Y ZOMBIS\P01 CEO Y ZOMBIS\obj\Debug\net6.0-windows\P01_CEO_Y_ZOMBIS.imagen.resources

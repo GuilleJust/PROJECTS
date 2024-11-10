@@ -1,0 +1,16 @@
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 1\E01_INICIO\TipoDeDato\bin\Debug\net5.0\TipoDeDato.exe
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 1\E01_INICIO\TipoDeDato\bin\Debug\net5.0\TipoDeDato.deps.json
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 1\E01_INICIO\TipoDeDato\bin\Debug\net5.0\TipoDeDato.runtimeconfig.json
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 1\E01_INICIO\TipoDeDato\bin\Debug\net5.0\TipoDeDato.runtimeconfig.dev.json
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 1\E01_INICIO\TipoDeDato\bin\Debug\net5.0\TipoDeDato.dll
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 1\E01_INICIO\TipoDeDato\bin\Debug\net5.0\ref\TipoDeDato.dll
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 1\E01_INICIO\TipoDeDato\bin\Debug\net5.0\TipoDeDato.pdb
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 1\E01_INICIO\TipoDeDato\obj\Debug\net5.0\TipoDeDato.csproj.AssemblyReference.cache
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 1\E01_INICIO\TipoDeDato\obj\Debug\net5.0\TipoDeDato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 1\E01_INICIO\TipoDeDato\obj\Debug\net5.0\TipoDeDato.AssemblyInfoInputs.cache
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 1\E01_INICIO\TipoDeDato\obj\Debug\net5.0\TipoDeDato.AssemblyInfo.cs
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 1\E01_INICIO\TipoDeDato\obj\Debug\net5.0\TipoDeDato.csproj.CoreCompileInputs.cache
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 1\E01_INICIO\TipoDeDato\obj\Debug\net5.0\TipoDeDato.dll
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 1\E01_INICIO\TipoDeDato\obj\Debug\net5.0\ref\TipoDeDato.dll
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 1\E01_INICIO\TipoDeDato\obj\Debug\net5.0\TipoDeDato.pdb
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 1\E01_INICIO\TipoDeDato\obj\Debug\net5.0\TipoDeDato.genruntimeconfig.cache

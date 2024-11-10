@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentacion", "Presentacion\Presentacion.csproj", "{2EEB3261-51B7-4DAC-8730-680555FADE88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{D965A01B-A091-4382-A572-AF27A0E78CD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{BB0BCD5F-C46D-41CF-AD3F-40CCE2C73B4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EEB3261-51B7-4DAC-8730-680555FADE88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EEB3261-51B7-4DAC-8730-680555FADE88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EEB3261-51B7-4DAC-8730-680555FADE88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EEB3261-51B7-4DAC-8730-680555FADE88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D965A01B-A091-4382-A572-AF27A0E78CD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D965A01B-A091-4382-A572-AF27A0E78CD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D965A01B-A091-4382-A572-AF27A0E78CD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D965A01B-A091-4382-A572-AF27A0E78CD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB0BCD5F-C46D-41CF-AD3F-40CCE2C73B4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0BCD5F-C46D-41CF-AD3F-40CCE2C73B4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0BCD5F-C46D-41CF-AD3F-40CCE2C73B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0BCD5F-C46D-41CF-AD3F-40CCE2C73B4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA21F1AE-2DFE-4A3D-9CEF-0E5582B1C044}
+	EndGlobalSection
+EndGlobal

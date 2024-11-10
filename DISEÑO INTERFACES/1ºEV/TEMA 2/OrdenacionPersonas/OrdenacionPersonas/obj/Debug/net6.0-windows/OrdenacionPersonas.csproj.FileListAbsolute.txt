@@ -1,0 +1,17 @@
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 2\OrdenacionPersonas\OrdenacionPersonas\obj\Debug\net6.0-windows\OrdenacionPersonas.csproj.AssemblyReference.cache
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 2\OrdenacionPersonas\OrdenacionPersonas\obj\Debug\net6.0-windows\OrdenacionPersonas.Form1.resources
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 2\OrdenacionPersonas\OrdenacionPersonas\obj\Debug\net6.0-windows\OrdenacionPersonas.csproj.GenerateResource.cache
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 2\OrdenacionPersonas\OrdenacionPersonas\obj\Debug\net6.0-windows\OrdenacionPersonas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 2\OrdenacionPersonas\OrdenacionPersonas\obj\Debug\net6.0-windows\OrdenacionPersonas.AssemblyInfoInputs.cache
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 2\OrdenacionPersonas\OrdenacionPersonas\obj\Debug\net6.0-windows\OrdenacionPersonas.AssemblyInfo.cs
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 2\OrdenacionPersonas\OrdenacionPersonas\obj\Debug\net6.0-windows\OrdenacionPersonas.csproj.CoreCompileInputs.cache
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 2\OrdenacionPersonas\OrdenacionPersonas\bin\Debug\net6.0-windows\OrdenacionPersonas.exe
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 2\OrdenacionPersonas\OrdenacionPersonas\bin\Debug\net6.0-windows\OrdenacionPersonas.deps.json
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 2\OrdenacionPersonas\OrdenacionPersonas\bin\Debug\net6.0-windows\OrdenacionPersonas.runtimeconfig.json
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 2\OrdenacionPersonas\OrdenacionPersonas\bin\Debug\net6.0-windows\OrdenacionPersonas.dll
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 2\OrdenacionPersonas\OrdenacionPersonas\bin\Debug\net6.0-windows\OrdenacionPersonas.pdb
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 2\OrdenacionPersonas\OrdenacionPersonas\obj\Debug\net6.0-windows\OrdenacionPersonas.dll
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 2\OrdenacionPersonas\OrdenacionPersonas\obj\Debug\net6.0-windows\refint\OrdenacionPersonas.dll
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 2\OrdenacionPersonas\OrdenacionPersonas\obj\Debug\net6.0-windows\OrdenacionPersonas.pdb
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 2\OrdenacionPersonas\OrdenacionPersonas\obj\Debug\net6.0-windows\OrdenacionPersonas.genruntimeconfig.cache
+C:\Users\Guillermo\OneDrive\Escritorio\2ºDAM\DISEÑO INTERFACES\1ºEV\TEMA 2\OrdenacionPersonas\OrdenacionPersonas\obj\Debug\net6.0-windows\ref\OrdenacionPersonas.dll

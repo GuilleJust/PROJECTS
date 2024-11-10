@@ -1,0 +1,11 @@
+Steak;Pork steak;Weekly;false;false;false;false;120.0;0.0;200.0
+Bread;Wheat bread;Daily;true;false;false;false;20.0;100.0;0.0
+Egg;Eggs;Weekly;false;false;false;true;30.0;0.0;30.0
+Beef;Ground Beef;Daily;false;false;false;false;100;0;20
+Chicken;Normal Chicken;Weekly;false;false;false;false;150.0;0.0;0.0
+Fish;Fresh fish;Weekly;false;false;false;false;150.0;50.0;20.0
+Rice;Normal rice;Daily;false;false;false;false;20.0;100.0;0.0
+Potatoes;Red potatoes;Weekly;false;false;false;false;100.0;50.0;50.0
+Anchovies;Cantabric anchovies;Monthly;false;false;false;false;100.0;0.0;20.0
+Pork Belly;Belly of the pork;Daily;false;false;false;false;200.0;20.0;200.0
+Calamares;Calamares frescos;Daily;false;false;false;false;100.0;-100.0;100.0
